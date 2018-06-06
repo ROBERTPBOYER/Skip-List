@@ -1,6 +1,6 @@
 
 # Linked Lists - Skip List 
-
+UW CSS-342 Data Structures, Algorithms, And Discrete Mathematics I
  
 ## Purpose
 
